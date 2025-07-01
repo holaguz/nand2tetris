@@ -22,7 +22,7 @@ module full_adder (
   );
 
   always_comb begin
-    carry = c1 ^ c2;
+    carry = c1 | c2;
   end
 
 endmodule
