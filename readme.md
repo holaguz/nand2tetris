@@ -12,9 +12,7 @@
 
 `make -C <project_number> <module_name>`
 
-## Build
-
 # Resources
 * Main project repo: https://github.com/nand2tetris/projects/tree/main/01
 * Verilog tutorial: https://www.chipverify.com/tutorials/verilog
-* The RISC-V Instruction Set Manual Volume I: Unprivileged Architecture: https://riscv.github.io/riscv-isa-manual/snapshot/unprivileged/
+<!-- * The RISC-V Instruction Set Manual Volume I: Unprivileged Architecture: https://riscv.github.io/riscv-isa-manual/snapshot/unprivileged/ -->
