@@ -2,7 +2,7 @@
 
 include ../common.mk
 
-MODULES := 
+MODULES := dff
 
 # Target 03: build and test all modules
 03: $(MODULES)
