@@ -2,7 +2,7 @@
 
 include ../common.mk
 
-MODULES := half_adder full_adder adder_16
+MODULES := half_adder full_adder adder_16 inc_16 alu
 
 # Target 02: build and test all modules
 02: $(MODULES)
