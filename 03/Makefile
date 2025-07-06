@@ -2,7 +2,7 @@
 
 include ../common.mk
 
-MODULES := dff
+MODULES := dff Bit PC RAM Register
 
 # Target 03: build and test all modules
 03: $(MODULES)
